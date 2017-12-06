@@ -1,4 +1,6 @@
-## Setup:
+## Setup
+
+First, edit the .env file and set your database name, username and password. Then execute the following commands via the command line:
 
 ### 1. install dependencies via composer
 composer install
